@@ -1,9 +1,8 @@
 {
-  "name": "animku-oploverz-api",
+  "name": "animku-api",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "AnimeKu public metadata scraper API",
   "main": "api/index.js",
   "engines": {
     "node": "24.x"
